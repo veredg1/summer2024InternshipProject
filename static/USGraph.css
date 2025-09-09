@@ -1,0 +1,8 @@
+body img{
+    border: .25in black;
+}
+footer{
+    padding-block: .25in;
+    font-size: large;
+    text-align: center;
+}
